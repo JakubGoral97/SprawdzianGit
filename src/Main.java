@@ -9,5 +9,6 @@ public class Main {
         int age = scanner.nextint();
         System.out.println("Witaj " + name + ". Za " + (18 - age) + "lata będe miał 18 lat!");
 
+
         }
     }
